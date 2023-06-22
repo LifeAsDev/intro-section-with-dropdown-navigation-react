@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/intro-section-with-dropdown-navigation-react/static/css/main.dcde8be5.css",
-    "main.js": "/intro-section-with-dropdown-navigation-react/static/js/main.2a9ece7f.js",
+    "main.css": "/intro-section-with-dropdown-navigation-react/static/css/main.8084c5da.css",
+    "main.js": "/intro-section-with-dropdown-navigation-react/static/js/main.c5f3d4e2.js",
     "static/js/787.28cb0dcd.chunk.js": "/intro-section-with-dropdown-navigation-react/static/js/787.28cb0dcd.chunk.js",
     "static/media/image-hero-desktop.png": "/intro-section-with-dropdown-navigation-react/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/intro-section-with-dropdown-navigation-react/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
@@ -17,12 +17,12 @@
     "static/media/icon-todo.svg": "/intro-section-with-dropdown-navigation-react/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
     "static/media/icon-close-menu.svg": "/intro-section-with-dropdown-navigation-react/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
     "static/media/icon-menu.svg": "/intro-section-with-dropdown-navigation-react/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
-    "main.dcde8be5.css.map": "/intro-section-with-dropdown-navigation-react/static/css/main.dcde8be5.css.map",
-    "main.2a9ece7f.js.map": "/intro-section-with-dropdown-navigation-react/static/js/main.2a9ece7f.js.map",
+    "main.8084c5da.css.map": "/intro-section-with-dropdown-navigation-react/static/css/main.8084c5da.css.map",
+    "main.c5f3d4e2.js.map": "/intro-section-with-dropdown-navigation-react/static/js/main.c5f3d4e2.js.map",
     "787.28cb0dcd.chunk.js.map": "/intro-section-with-dropdown-navigation-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcde8be5.css",
-    "static/js/main.2a9ece7f.js"
+    "static/css/main.8084c5da.css",
+    "static/js/main.c5f3d4e2.js"
   ]
 }
